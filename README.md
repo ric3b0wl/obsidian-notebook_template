@@ -9,7 +9,7 @@ This is my template for a new Obsidian notebook creation
 - [Minimal Theme settings](obsidian://show-plugin?id=obsidian-minimal-settings)
 - [Remotly Save](obsidian://show-plugin?id=remotely-save)
 
-### **Note**
+### *Note*
 Under `+resource/+attachment` are for all the attachement files such as images and graphic that is importated into the notebook
 
 
