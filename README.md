@@ -1,0 +1,1 @@
+# obsidan-notebook_template
