@@ -20,5 +20,6 @@ Along with `+reosurce/+drawing` contain excalidraw drawing and diagram attachmen
 ## How to use it
 1. git clone the repo
 2. open with obsidian
-3. setup remotly save for OneDrive(Personal), Dropbox, Webdax or AWS S3
-4. Start taking notes!!!
+3. delete git config `rm -rf .git` (to prevent accidently git push)
+4. setup remotly save for OneDrive(Personal), Dropbox, Webdax or AWS S3
+5. Start taking notes!!!
